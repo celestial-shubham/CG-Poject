@@ -5,6 +5,6 @@ This is a simple Client Server Implementation in C++ using OpenGL and GLUT. This
 1. GLUT
 2. C++ compiler (use MinGW for Windows or any suitable compiler)
 
-To get started run client-server.cpp
+To get started run main.cpp in CG Project folder.
 
 Created by Shubham Verma (2K18/CO/348) and Shubham (2K18/CO/344) as a 5th semester Project in Computer Graphics.
