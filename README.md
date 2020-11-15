@@ -7,6 +7,6 @@ This is a simple Client Server Implementation in C++ using OpenGL and GLUT. This
 
 To get started run main.cpp in CG Project folder.
 
-Name
-Shubham (2K18/CO/344)
+Name\n
+Shubham (2K18/CO/344)\n
 Shubham Verma (2K18/CO/348)
